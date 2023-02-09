@@ -33,12 +33,22 @@
     {
         "id": 4,
         "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/apartamento-2.png",
-        "tipo": "Casa",
+        "tipo": "Apartamento",
         "cidade": "Candeias, Jaboatão dos Guararapes, PE",
         "rua": "R. Campo Grande, 354",
+        "metragem": "89m²",
+        "vagas": "2",
+        "quartos": "4"
+    },
+        {
+        "id": 5,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/casa-3.png",
+        "tipo": "Casa",
+        "cidade": "Bancarios, Joao Pessoa, PB",
+        "rua": "R. Alameda dos Anjos, 354",
         "metragem": "268m²",
         "vagas": "3",
-        "quartos": "4"
+        "quartos": "5"
     }
 ]
 }
