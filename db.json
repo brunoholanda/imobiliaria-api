@@ -2,7 +2,7 @@
 [
     {
         "id": 1,
-        "imagem": "https://nerdking.net.br/rua-content/uploads/2023/02/casa-1.png",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/casa-1.png",
         "tipo": "Casa",
         "cidade": "Candeias, Jaboatão dos Guararapes, PE",
         "rua": "R. Campo Grande, 354",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "imagem": "https://nerdking.net.br/rua-content/uploads/2023/02/apartamento-1.png",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/apartamento-1.png",
         "tipo": "Apartamento",
         "cidade": "Boa Viagem, Recife, PE",
         "rua": "R. Dom José Lopes, 25",
@@ -22,7 +22,7 @@
     },
     {
         "id": 3,
-        "imagem": "https://nerdking.net.br/rua-content/uploads/2023/02/casa-2.png",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/casa-2.png",
         "tipo": "Casa",
         "cidade": "Suape, Cabo de Santo Agostinho, PE",
         "rua": "R. do Sol, 354",
@@ -32,7 +32,7 @@
     },
     {
         "id": 4,
-        "imagem": "https://nerdking.net.br/rua-content/uploads/2023/02/apartamento-2.png",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/apartamento-2.png",
         "tipo": "Casa",
         "cidade": "Candeias, Jaboatão dos Guararapes, PE",
         "rua": "R. Campo Grande, 354",
